@@ -1,8 +1,8 @@
 timezone: Asia/Tokyo
+title: "Torus Solutions 改"
 defaults:
   -
     scope:
       path: ""
     values:
       layout: "post"
-      site_title: "Torus Solutions 改"
