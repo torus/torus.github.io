@@ -1,5 +1,10 @@
 timezone: Asia/Tokyo
 title: "Torus Solutions 改"
+description: "An another blog by Toru Hisai"
+url: "https://torus.github.io"
+author: "Toru Hisai"
+plugins:
+  - jekyll-feed
 defaults:
   -
     scope:
