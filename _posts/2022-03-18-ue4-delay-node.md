@@ -10,3 +10,6 @@ UE4 の Blueprint で
 を使うと指定した時間経った後で動作を再開することができるんだけど、
 どうやらこれはあまり厳密に時間を計測していないらしい。
 FPS が 60-100 くらいのときはほぼ正確に指定した時間通りに動くけど、FPS が 40 くらいまで落ちると 0.1 秒が 120 ミリ秒くらいかかる。
+
+下は計測に使用した Blueprint: [measuring the actual delay posted by tor | blueprintUE | PasteBin For Unreal Engine 4](https://blueprintue.com/blueprint/-fb2z-23/)
+<iframe src="https://blueprintue.com/render/-fb2z-23/" scrolling="no" allowfullscreen></iframe>
