@@ -14,4 +14,4 @@ Saves や Intermediate フォルダを消しても古い値から更新されな
 
 ![image](https://user-images.githubusercontent.com/65044/159198464-4cda569d-d081-474b-a3d0-6ef7e6e9cac4.png)
 
-結果的に、Get Class Default ノードを使って解決できた。
+結果的に、[Get Class Defaults](https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Class/GetClassDefaults/) ノードを使って解決できた。
