@@ -3,6 +3,7 @@ title: "Torus Solutions 改"
 description: "An another blog by Toru Hisai"
 url: "https://torus.github.io"
 author: "Toru Hisai"
+twitter: "torus"
 plugins:
   - jekyll-feed
 defaults:
