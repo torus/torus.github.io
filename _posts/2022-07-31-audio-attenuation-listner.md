@@ -1,5 +1,5 @@
 ---
-title: Sound Attenuation のリスナーを設定する
+title: UE5 で Sound Attenuation のリスナーを設定する
 tags: ue5 ue4
 ---
 
@@ -12,3 +12,8 @@ tags: ue5 ue4
 プレイヤーキャラクターをスポーンし、リスナーに設定する Blueprint は下のようになる：
 
 ![image](https://user-images.githubusercontent.com/65044/182007342-6e8ff2cf-feb5-48e5-bfcc-de0c6aff016f.png)
+
+ちゃんとリスナーがついてるかどうかを確かめるには、コンソール変数の `au.3dVisualize.Listeners` の値を 1 に設定する。
+
+参考：
+[Audio Console Commands in Unreal Engine | Unreal Engine 5.0 Documentation](https://docs.unrealengine.com/5.0/en-US/audio-console-commands-in-unreal-engine/)
