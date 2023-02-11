@@ -19,6 +19,8 @@ tag: ue5
 
 夕日がオブジェクトを照らすような効果がほしいときは Sky Light を置くといいみたい。
 
+下の例は [POLYGON - Farm Pack](https://syntystore.com/products/polygon-farm-pack) のサンプルから。
+
 #### Sky Light なし
 ![Sky Light なし](https://user-images.githubusercontent.com/65044/218255391-ab5c9148-6659-4486-9116-bc3be6eb38ed.png)
 
