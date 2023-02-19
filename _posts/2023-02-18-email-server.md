@@ -83,7 +83,7 @@ toru@torus.jp xxxxx@gmail.com
 
 ### DKIM
 
-DKIM の設定は docker-mailserver に含まれる setup.sh を使うだけだった。（cf. [Best Practices | DKIM - Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/v11.3/config/best-practices/dkim/)）
+DKIM の設定は docker-mailserver に含まれる setup.sh を使うだけだった。（cf. [Best Practices \| DKIM - Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/v11.3/config/best-practices/dkim/)）
 
 ```
 $ ./setup.sh config dkim
