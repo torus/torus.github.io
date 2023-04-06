@@ -21,3 +21,4 @@ Character Movement コンポーネントの Rotation Rate の Z の値が Z 軸�
 
 - [APawn \| Unreal Engine Documentation](https://docs.unrealengine.com/5.1/en-US/API/Runtime/Engine/GameFramework/APawn/)
 - [UCharacterMovementComponent \| Unreal Engine Documentation](https://docs.unrealengine.com/5.1/en-US/API/Runtime/Engine/GameFramework/UCharacterMovementComponent/)
+- [Setting Up Character Movement \| Unreal Engine 5.0 Documentation](https://docs.unrealengine.com/5.0/en-US/setting-up-character-movement/)
