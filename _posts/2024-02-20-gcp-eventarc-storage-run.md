@@ -8,3 +8,5 @@ WIP
 
 - （必要に応じて）サービスアカウントを作る
 - サービスアカウントに対して鍵を追加する
+- サービスアカウントに対して適切な権限を付与するために、自分のアカウントに IAM で `resourcemanager.projects.setIamPolicy` という権限を追加する。
+- この権限は「Project IAM 管理者 (roles/resourcemanager.projectIamAdmin)」というロールに含まれるらしい。
