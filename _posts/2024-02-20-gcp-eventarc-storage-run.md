@@ -10,3 +10,7 @@ WIP
 - サービスアカウントに対して鍵を追加する
 - サービスアカウントに対して適切な権限を付与するために、自分のアカウントに IAM で `resourcemanager.projects.setIamPolicy` という権限を追加する。
 - この権限は「Project IAM 管理者 (roles/resourcemanager.projectIamAdmin)」というロールに含まれるらしい。
+
+
+BigQuery でサービスアカウントがテーブルを作るには「bigquery.tables.create」の権限が必要。
+この権限は BigQuery のデータセットごとに設定する。
