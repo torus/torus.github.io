@@ -20,4 +20,6 @@ BigQuery でサービスアカウントがテーブルを作るには「bigquery
 Eventarc と連携せずに Cloud Run を実行する場合は「サービス」ではなく「ジョブ」を使う。
 ジョブが実行されるときは HTTP サーバが不要なので、直接必要な関数を実行すれば良い。
 
-[ジョブの作成  \|  Cloud Run のドキュメント  \|  Google Cloud](https://cloud.google.com/run/docs/create-jobs?hl=ja)
+cf. [ジョブの作成  \|  Cloud Run のドキュメント  \|  Google Cloud](https://cloud.google.com/run/docs/create-jobs?hl=ja)
+
+また、ジョブの場合はサービスとしてデプロイする必要もない。
