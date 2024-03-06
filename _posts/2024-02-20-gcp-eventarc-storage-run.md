@@ -14,3 +14,10 @@ WIP
 
 BigQuery でサービスアカウントがテーブルを作るには「bigquery.tables.create」の権限が必要。
 この権限は BigQuery のデータセットごとに設定する。
+
+### Eventarc と連携しない場合
+
+Eventarc と連携せずに Cloud Run を実行する場合は「サービス」ではなく「ジョブ」を使う。
+ジョブが実行されるときは HTTP サーバが不要なので、直接必要な関数を実行すれば良い。
+
+[ジョブの作成  \|  Cloud Run のドキュメント  \|  Google Cloud](https://cloud.google.com/run/docs/create-jobs?hl=ja)
