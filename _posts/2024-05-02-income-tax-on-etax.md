@@ -9,6 +9,6 @@ title: e-Tax で源泉所得税を納付する
   支給額が 200,000 円の場合、社会保険料などの控除額は 29,880 円（これを書いている時点で）なので、実際の税額は控除後の 170,120 円を使って求める。  
   ![image](https://github.com/torus/torus.github.io/assets/65044/b8df7960-19e1-406c-8810-46a38f553a06){: width="640" }
 - 「即時通知の確認」画面で「受信通知の確認」ボタンを押すと支払いにすすめる。
-  ![image](https://github.com/torus/torus.github.io/assets/65044/497c989b-daf5-41b5-86e8-e362aa9e7c4b){: width="640" }
+  ![image](https://github.com/torus/torus.github.io/assets/65044/6daf0d7e-6da8-4186-b25b-34c39aa72271){: width="640" }
 - Amazon Pay を使う場合は「スマホアプリ納付」を選ぶ。
 - 予め Amazon のアカウントにギフトカード残高をチャージしておくといい。
