@@ -4,7 +4,7 @@ title: Windows で文字が小さすぎて読めない時の設定
 
 設定から Accessibility > Text size を開いてちょっと大きくする。
 
-![image](https://github.com/user-attachments/assets/102f4019-5dca-4292-b386-50b5600fb24c)
+![image](https://github.com/user-attachments/assets/7ecd1898-b61e-4cf9-b78b-47d0dc59d920)
 
 これはウェブブラウザのデフォルトのフォントサイズにも影響するので、ブラウザ側でなにか設定をしている場合はそちらも調整する。
 
