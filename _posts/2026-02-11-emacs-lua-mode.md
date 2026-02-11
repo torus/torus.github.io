@@ -7,7 +7,7 @@ Customize Group で Lua の設定を開いて、Lua Indent Level と Lua Indent 
 
 ```lisp
  '(lua-indent-level 2)
- '(lua-indent-nested-block-content-align t)
+ '(lua-indent-nested-block-content-align nil)
 ```
 
 テストコードでは関数の引数に関数を渡すので、lua-indent-nested-block-content-align を使うとその部分のインデントが控えめになる。
